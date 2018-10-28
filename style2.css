@@ -1,0 +1,80 @@
+.head1{
+  		 float: left;
+      width: 100%;
+      height: 300px;
+        background-image: url("image/t2.png");
+        background-repeat: no-repeat;
+        margin-top: -20px;
+        box-shadow: 10px 10px 5px white;
+
+      
+ }
+ .head2{
+  margin-left: 70px;
+  margin-right: 70px;
+box-shadow: 10px 10px 5px black;
+       height:610px;
+ 	    background-color: gray;
+      color: white;
+      font-family: "Comic Sans MS", cursive, sans-serif ;
+
+ }
+ .head3{
+  margin-left: 70px;
+  margin-right: 70px;
+ margin-top: 20px;
+ box-shadow: 10px 10px 5px black;
+       height:330px;
+ 	    background-color: gray;
+      color: white;
+      font-family: "Comic Sans MS", cursive, sans-serif ;
+
+ }
+ .img1{
+
+  background-color: black;
+   height: 300px; 
+   width: 380px;
+   margin-top: 20px; 
+   float: right; 
+   margin-right: 200px;
+   border-radius: 10%;
+   box-shadow: 5px 5px 5px white;
+ }
+ .im:hover{
+
+  transform: scale(1.1);
+ }
+ .head4{
+  margin-left: 70px;
+  margin-right: 70px;
+ margin-top: 20px;
+ box-shadow: 10px 10px 5px black;
+       height:330px;
+      background-color: gray;
+      color: white;
+      font-family: "Comic Sans MS", cursive, sans-serif ;
+
+ }
+ .head5{
+margin-left: 1px;
+  margin-right: 1px;
+ margin-top: 30px;
+ box-shadow: 10px 10px 5px black;
+       height:330px;
+      background-color: gray;
+      color: white;
+      font-family: "Comic Sans MS", cursive, sans-serif ;
+
+ }
+ .head6{
+margin-left: 1px;
+  margin-right: 1px;
+ margin-top: 30px;
+ box-shadow: 10px 10px 5px black;
+       height:330px;
+      background-color: gray;
+      color: white;
+      font-family: "Comic Sans MS", cursive, sans-serif ;
+
+ }
