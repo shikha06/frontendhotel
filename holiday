@@ -1,0 +1,82 @@
+<html>
+<head>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Holiday</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+<link rel="stylesheet" href="style2.css">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script>
+  	$(document).ready(function(){
+      $("p").hover(function(){
+        $(this).css("background-color","#ffb3b3");},
+        function(){
+        	$(this).css("background-color"," #999999");
+
+      });
+
+  	});
+
+  </script>
+
+</head>
+<body>
+	<div class="head1">
+<h1 style="margin-left: 500px;"><b style="color: red; font-family: Comic Sans MS", cursive, sans-serif;> m$n </b><b style="color: black;">TOTAL HOLIDAYS</b></h1><br> 
+<h1 style=" background-color: white; margin-top: 20px; margin-left:300px; margin-right:200px; box-shadow: 5px 5px 5px blue; font-family: Comic Sans MS", cursive, sans-serif;">Maximise your holiday with an all in one package</h1>
+<br><h3><a href ="home.html" style="text-decoration: none; margin-left: 650px; background-color: white; margin-top: 20px; margin-right:200px; box-shadow: 5px 5px 5px blue; font-family: Comic Sans MS", cursive, sans-serif;">HOME</a></h3>
+	</div><br><br>
+	<div class="head2">
+	
+  <img src="image/k4.jpg" class="im" style="height: 300px; width: 300px; margin-top:20px; margin-left: 200px; border-radius: 100%;   border: 1px solid gray; border-style: inset;" title="GOLDEN TEMPLE: AMRITSAR">
+    <div class="img1"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br><p>When you are looking for some pocket-friendly places, you are surely going to browse for the budget tour packages in India. And among those, one of the best places to cruise through with a light pocket is Amritsar. Amritsar and Golden Temple are often said with an inseparable unison. Golden Temple is one of the majestic marvels one can gawk at for hours.</p>
+    	<p>With <b style="color: blue;">m$n</b> Total Holidays, explore the beautifully ornate architecture of the Golden Temple which leaves an everlasting impression of royalty. The feeling of divinity surrounds us the entire time we’re in the temple.</p></div>
+	
+	</div>
+
+	<div class="head3">
+	
+  <img src="image/kutubminar.jpg" class="im" style="height: 300px; width: 300px; margin-top:20px; margin-left: 200px; border-radius: 100%;   border: 1px solid gray; border-style: inset;" title="QUTUBMINAR: NEW DELHI">
+    <div class="img1"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br><p>Qutub Minar is a 73-metre (239.5 feet) tall tapering tower of five storeys, with a 14.3 metres (47 feet) base diameter, reducing to 2.7 metres (9 feet) at the top of the peak.[3] It contains a spiral staircase of 379 steps.[4] Its design is thought to have been based on the Minaret of Jam, in western Afghanistan.</p>
+    	<p>With <b style="color: blue;">m$n</b> Total Holidays, explore the beautifully ornate architecture of the QURUBMINAR which leaves an everlasting impression of DELHI SULTANATE.</p></div>
+
+
+	
+	</div>
+  <div class="head4">
+  
+  <img src="image/ootytamil.jpg" class="im" style="height: 300px; width: 300px; margin-top:20px; margin-left: 200px; border-radius: 100%;   border: 1px solid gray; border-style: inset;" title="OOTY: TAMIL">
+    <div class="img1"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br><p> Ooty, also known as Udhagamandalam, is a hill station in the state of Tamil Nadu, in southern India. Surrounded by trees, central Ooty Lake is a huge artificial expanse of water with pleasure boats. On the slopes of nearby Elk Hill, the Rose Garden is home to over 2,000 varieties of roses. The Government Botanical Garden, created in the 19th century, features ferns, orchids and a prehistoric, fossilized tree.</p>
+      <p>With <b style="color: blue;">m$n</b> Total Holidays, explore the beautifully ornate architecture of the QURUBMINAR which leaves an everlasting impression of DELHI SULTANATE.</p></div><br>
+
+  <div class="head5">
+  
+  <img src="image/shimla.jpg" class="im" style="height: 300px; width: 300px; margin-top:20px; margin-left: 200px; border-radius: 100%;   border: 1px solid gray; border-style: inset;" title="SHIMLA: HIMACHAL PRADESH">
+    <div class="img1"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br><p> Shimla is the capital of the northern Indian state of Himachal Pradesh, in the Himalayan foothills. Once the summer capital of British India, it remains the terminus of the narrow-gauge Kalka-Shimla Railway, completed in 1903. It’s also known for the handicraft shops that line The Mall, a pedestrian avenue, as well as the Lakkar Bazaar, a market specializing in wooden toys and crafts</p>
+      <p>With <b style="color: blue;">m$n</b>Boasting a garden and a terrace, MSN 9401 Home Valley View 2 BHK New Shimla is located in the New Shimla district of Shimla, only 5 km from The Mall Road. The property is 11 km from Victory Tunnel.
+</p></div>
+<div class="head6">
+  
+  <img src="image/jodhpur.jpg" class="im" style="height: 300px; width: 300px; margin-top:20px; margin-left: 200px; border-radius: 100%;   border: 1px solid gray; border-style: inset;" title="jodhpur: RAJASTHAN">
+    <div class="img1"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br><p> Jodhpur is a city in the Thar Desert of the northwest Indian state of Rajasthan. Its 15th-century Mehrangarh Fort is a former palace that’s now a museum, displaying weapons, paintings and elaborate royal palanquins (sedan chairs). Set on on a rocky outcrop, the fort overlooks the walled city, where many buildings are painted the city’s iconic shade of blue</p>
+      <p>With <b style="color: blue;">m$n</b>Jodhpur is a very popular tourist destination. The landscape is scenic and mesmerizing. Jodhpur city has many beautiful palaces and forts such as Mehrangarh Fort, Jaswant Thada, Umaid Bhavan Palace and Rai ka Bag Palace.
+</p></div>
+
+
+<div class="head6">
+  
+  <img src="image/k3.jpg" class="im" style="height: 300px; width: 300px; margin-top:20px; margin-left: 200px; border-radius: 100%;   border: 1px solid gray; border-style: inset;" title="AGRA: UTTAR PRADESH">
+    <div class="img1"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br><p> The Taj Mahal is an ivory-white marble mausoleum on the south bank of the Yamuna river in the Indian city of Agra. It was commissioned in 1632 by the Mughal emperor, Shah Jahan, to house the tomb of his favourite wife, Mumtaz Mahal.</p>
+      <p>With <b style="color: blue;">m$n</b>A nice hotel very close to the east gate of Taj Mahal. There is a swimming pool at the roof and you can see Taj Mahal from there. The Indian restaurant is also good and both chef and waiters are very friendly.”
+</p></div>
+
+</body>
+</html>
